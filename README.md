@@ -1,1 +1,1 @@
-# dom-exercise
+## Practicing DOM-manupulation with Js
